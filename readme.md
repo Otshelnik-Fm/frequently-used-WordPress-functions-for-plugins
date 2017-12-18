@@ -11,12 +11,12 @@ All functions found at least once, look in the file all-functions-list.txt
 
 | Function <sub>(freq)</sub> | Codex | Developers | WP-Kama |
 |------|:----------:|:----------:|:----------:|
-| __ <sub>(57455)</sub> | [link](https://codex.wordpress.org/Function_Reference/__) | [link](https://developer.wordpress.org/reference/functions/__/) | [link](https://wp-kama.ru/function/__) |  
+| __ <sub>(57455)</sub> | [link](https://codex.wordpress.org/Function_Reference/_2) | [link](https://developer.wordpress.org/reference/functions/__/) | [link](https://wp-kama.ru/function/__) |  
 | _e <sub>(20171)</sub> | [link](https://codex.wordpress.org/Function_Reference/_e) | [link](https://developer.wordpress.org/reference/functions/_e/) | [link](https://wp-kama.ru/function/_e) |  
-| apply_filters <sub>(12700)</sub> | [link](https://codex.wordpress.org/Function_Reference/apply_filters) | [link](https://developer.wordpress.org/reference/functions/apply_filters/) | [link](https://wp-kama.ru/function/apply_filters) |  
-| add_action <sub>(10798)</sub> | [link](https://codex.wordpress.org/Function_Reference/add_action) | [link](https://developer.wordpress.org/reference/functions/add_action/) | [link](https://wp-kama.ru/function/add_action) |  
-| esc_attr <sub>(8064)</sub> | [link](https://codex.wordpress.org/Function_Reference/esc_attr) | [link](https://developer.wordpress.org/reference/functions/esc_attr/) | [link](https://wp-kama.ru/function/esc_attr) |  
-| get_option <sub>(7714)</sub> | [link](https://codex.wordpress.org/Function_Reference/get_option) | [link](https://developer.wordpress.org/reference/functions/get_option/) | [link](https://wp-kama.ru/function/get_option) |  
+| apply_filters <sub>(12700)</sub> | - | [link](https://developer.wordpress.org/reference/functions/apply_filters/) | [link](https://wp-kama.ru/function/apply_filters) |  
+| add_action <sub>(10798)</sub> | - | [link](https://developer.wordpress.org/reference/functions/add_action/) | [link](https://wp-kama.ru/function/add_action) |  
+| esc_attr <sub>(8064)</sub> | - | [link](https://developer.wordpress.org/reference/functions/esc_attr/) | [link](https://wp-kama.ru/function/esc_attr) |  
+| get_option <sub>(7714)</sub> | - | [link](https://developer.wordpress.org/reference/functions/get_option/) | [link](https://wp-kama.ru/function/get_option) |  
 | do_action <sub>(6968)</sub> | [link](https://codex.wordpress.org/Function_Reference/do_action) | [link](https://developer.wordpress.org/reference/functions/do_action/) | [link](https://wp-kama.ru/function/do_action) |  
 | add_filter <sub>(5512)</sub> | [link](https://codex.wordpress.org/Function_Reference/add_filter) | [link](https://developer.wordpress.org/reference/functions/add_filter/) | [link](https://wp-kama.ru/function/add_filter) |  
 | esc_html <sub>(4859)</sub> | [link](https://codex.wordpress.org/Function_Reference/esc_html) | [link](https://developer.wordpress.org/reference/functions/esc_html/) | [link](https://wp-kama.ru/function/esc_html) |  

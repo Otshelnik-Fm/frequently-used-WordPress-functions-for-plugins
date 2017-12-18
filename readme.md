@@ -11,7 +11,7 @@ All functions found at least once, look in the file all-functions-list.txt
 
 | Функция <sub>Использований</sub> | Codex | Developers | WP-Kama |
 |------|----------|----------|----------|
-| __ <sub>(57455)</sub> | <center>[link](https://codex.wordpress.org/Function_Reference/__)</center> | [link](https://developer.wordpress.org/reference/functions/__/) | [link](https://wp-kama.ru/function/__) |  
+| __ <sub>(57455)</sub> | <center>[link](https://codex.wordpress.org/Function_Reference/__)</center> | <center>[link](https://developer.wordpress.org/reference/functions/__/)</center> | <center>[link](https://wp-kama.ru/function/__)</center> |  
 | _e <sub>(20171)</sub> | [link](https://codex.wordpress.org/Function_Reference/_e) | [link](https://developer.wordpress.org/reference/functions/_e/) | [link](https://wp-kama.ru/function/_e) |  
 | apply_filters <sub>(12700)</sub> | [link](https://codex.wordpress.org/Function_Reference/apply_filters) | [link](https://developer.wordpress.org/reference/functions/apply_filters/) | [link](https://wp-kama.ru/function/apply_filters) |  
 | add_action <sub>(10798)</sub> | [link](https://codex.wordpress.org/Function_Reference/add_action) | [link](https://developer.wordpress.org/reference/functions/add_action/) | [link](https://wp-kama.ru/function/add_action) |  

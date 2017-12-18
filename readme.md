@@ -9,8 +9,8 @@ All functions found at least once, look in the file all-functions-list.txt
 
 
 
-| Функция <sub>Использований</sub> | Codex | Developers | WP-Kama |  
-|------|----------|  
+| Функция <sub>Использований</sub> | Codex | Developers | WP-Kama |
+|------|----------|
 | __ <sub>(57455)</sub> | [link](https://codex.wordpress.org/Function_Reference/__) | [link](https://developer.wordpress.org/reference/functions/__/) | [link](https://wp-kama.ru/function/__) |  
 | _e <sub>(20171)</sub> | [link](https://codex.wordpress.org/Function_Reference/_e) | [link](https://developer.wordpress.org/reference/functions/_e/) | [link](https://wp-kama.ru/function/_e) |  
 | apply_filters <sub>(12700)</sub> | [link](https://codex.wordpress.org/Function_Reference/apply_filters) | [link](https://developer.wordpress.org/reference/functions/apply_filters/) | [link](https://wp-kama.ru/function/apply_filters) |  

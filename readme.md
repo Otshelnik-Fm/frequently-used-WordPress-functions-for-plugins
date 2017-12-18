@@ -116,3 +116,6 @@ and I will function from it to compare with the used functions of 152 plug-ins. 
 | network_admin_url <sub>(256)</sub> | [link](https://codex.wordpress.org/Function_Reference/network_admin_url) | [link](https://developer.wordpress.org/reference/functions/network_admin_url/) | [link](https://wp-kama.ru/function/network_admin_url) |  
 
 
+[read full article](https://otshelnik-fm.ru/samye-ispolzuemye-wordpress-funkcii-dlya-plaginov-top-100/)  
+
+read also [Top-50 WP-Recall functions](https://otshelnik-fm.ru/top-50-chasto-ispolzuemyx-funkcij-action-i-filter-plagina-wp-recall/)

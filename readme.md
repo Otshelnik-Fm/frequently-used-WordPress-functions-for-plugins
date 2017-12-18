@@ -11,8 +11,8 @@ All functions found at least once, look in the file all-functions-list.txt
 
 | Function <sub>(freq)</sub> | Codex | Developers | WP-Kama |
 |------|:----------:|:----------:|:----------:|
-| __ <sub>(57455)</sub> | [link](https://codex.wordpress.org/Function_Reference/_2) | [link](https://developer.wordpress.org/reference/functions/__/) | [link](https://wp-kama.ru/function/__) |  
-| _e <sub>(20171)</sub> | [link](https://codex.wordpress.org/Function_Reference/_e) | [link](https://developer.wordpress.org/reference/functions/_e/) | [link](https://wp-kama.ru/function/_e) |  
+| __ <sub>(57455)</sub> | [link](https://codex.wordpress.org/Function_Reference/_2){:target="_blank"} | [link](https://developer.wordpress.org/reference/functions/__/) | [link](https://wp-kama.ru/function/__) |  
+| _e <sub>(20171)</sub> | [link](https://codex.wordpress.org/Function_Reference/_e){:target="_blank"} | [link](https://developer.wordpress.org/reference/functions/_e/) | [link](https://wp-kama.ru/function/_e) |  
 | apply_filters <sub>(12700)</sub> | - | [link](https://developer.wordpress.org/reference/functions/apply_filters/) | [link](https://wp-kama.ru/function/apply_filters) |  
 | add_action <sub>(10798)</sub> | - | [link](https://developer.wordpress.org/reference/functions/add_action/) | [link](https://wp-kama.ru/function/add_action) |  
 | esc_attr <sub>(8064)</sub> | - | [link](https://developer.wordpress.org/reference/functions/esc_attr/) | [link](https://wp-kama.ru/function/esc_attr) |  
